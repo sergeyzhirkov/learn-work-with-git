@@ -1,1 +1,6 @@
+
 merge some content 2
+
+resolve conflict ! 
+
+merge some content 1
