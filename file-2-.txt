@@ -6,3 +6,5 @@ resolve conflict !
 merge some content 1
 
 some content for fast-forward merge
+
+commit to cherry-pick
