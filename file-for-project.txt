@@ -1,2 +1,1 @@
 some content for fast-forward merge
-some content to revert commit
