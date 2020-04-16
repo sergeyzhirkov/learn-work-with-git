@@ -1,1 +1,2 @@
 some content for fast-forward merge
+conflict pull content in local
